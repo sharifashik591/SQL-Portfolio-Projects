@@ -1,5 +1,5 @@
 # 🟡 Gold Sales Intelligence – SQL Analytics Project 
-## [Documentation](https://docs.google.com/document/d/1QaCR51aRXDn8WgntIT8czFkmgNo4SxC2IRVUEIO7GDM/edit?usp=sharing)
+## [Full Documentation in Doc](https://docs.google.com/document/d/1QaCR51aRXDn8WgntIT8czFkmgNo4SxC2IRVUEIO7GDM/edit?usp=sharing)
 
 ## 📌 Overview
 
